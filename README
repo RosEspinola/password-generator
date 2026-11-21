@@ -1,0 +1,11 @@
+# Password Generator
+
+A simple password generator built with HTML, CSS, and JavaScript.
+
+## Features
+- Choose password length (6-32)
+- Include uppercase, lowercase, numbers, and symbols
+- Copy to clipboard
+
+## How to run
+Open `index.html` in your browser.
